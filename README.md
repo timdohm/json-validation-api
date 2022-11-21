@@ -13,3 +13,5 @@ To build the Go application:
 
 Or to build and run:
 `go run cmd/main.go`
+
+Please note that the server is running at `localhost:4060` and http requests will need to be directed there.
